@@ -1,0 +1,8 @@
+﻿.vs
+.vscode
+.idea
+Build
+Binaries
+DerivedDataCache
+Intermediate
+Saved
